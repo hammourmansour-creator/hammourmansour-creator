@@ -1,68 +1,77 @@
-# Hi, I'm Mansour Hammour 👋
+# Hi, I’m Mansour Hammour 👋
 
-**Computer Science Student | Machine Learning & AI Enthusiast | Medical Student | Building AI for Healthcare**
+**Computer Science Student | Applied Machine Learning & NLP | Medical Student | Building AI for Healthcare**
 
-I am a BSc Computer Science student with the University of London (Goldsmiths), entering my final year in 2026, and a second-year medical student at the Syrian Private University.  
-My work focuses on building practical ML and AI projects—especially in areas where technology can support healthcare and clinical decision-making.
+I’m a BSc Computer Science student at the University of London (Goldsmiths), entering my final year in 2026, and a medical student at the Syrian Private University.
+My main focus is machine learning and natural language processing, particularly projects that sit at the intersection of technology, medicine, and clinical decision support.
+
+I use this GitHub to learn by building, starting from strong foundations, then gradually moving toward research-oriented ML workflows, especially in healthcare contexts.
 
 ---
 
 ## 🔬 What I'm Currently Working On
-- Building machine learning models for structured clinical data  
-- Developing NLP classifiers for clinical notes and medical text  
-- Creating deep learning models for medical imaging (CNNs)  
-- Experimenting with LLMs for healthcare Q&A and text summarization  
-- Strengthening my Python, data analysis, and ML engineering skills
+-Building end-to-end machine learning pipelines in Python
+
+-Developing NLP classifiers for medical and clinical text
+
+-Performing data preprocessing, feature engineering, and model evaluation
+
+-Conducting error analysis to understand model limitations
+
+-Strengthening ML fundamentals before scaling to deeper research work
+
 
 ---
 
 ## 🧠 Skills & Tools
-**Languages:** Python, C++, JavaScript, HTML, CSS  
-**ML & Data:** NumPy, pandas, matplotlib, NLTK  
-**Tools:** GitHub, Jupyter Notebook, VS Code  
-**Interests:** Machine Learning, NLP, Deep Learning, Healthcare AI  
+**Languages:** Python
+
+**Machine Learning & NLP:** Supervised learning (classification), TF-IDF feature engineering, text preprocessing (tokenization, normalization)
+
+**Data & Tools:** pandas, NumPy, scikit-learn, NLTK, Jupyter Notebook 
+
+**Databases:** SQL (basic querying; actively developing)
 
 ---
 
 ## 🚀 Highlighted Projects
 
-### 🩺 Medical Diagnosis Classifier  
-End-to-end ML pipeline using clinical structured data.  
-**Tech:** Python, pandas, scikit-learn  
-[Repository coming soon]
+### 🩺 Clinical Text Classification Mini-Pipeline (Python)  
 
-### 📝 Clinical Notes NLP Classifier  
-NLP model for classifying medical text using TF-IDF and NLTK.  
-**Tech:** Python, NLTK, scikit-learn  
-[Repository coming soon]
+An end-to-end machine learning pipeline for multi-class classification of medical text.
+What this project includes:
 
-### 🖼️ Medical Imaging CNN  
-Deep learning CNN to classify medical images (e.g., chest X-rays).  
-**Tech:** Python, PyTorch  
-[Repository coming soon]
+-Data ingestion, cleaning, and preprocessing of real-world clinical text
 
-### 🤖 Healthcare LLM Assistant  
-Lightweight LLM-based assistant for summarizing medical content and answering queries.  
-**Tech:** Python, HuggingFace, FastAPI  
-[Repository coming soon]
+-Exploratory data analysis to assess data quality and class imbalance
 
----
+-Feature engineering using TF-IDF
 
-## 🌐 Other Projects
+-Training and evaluating classical ML models
 
-### 💪 Fitness Tracking Web App  
-Full-stack React app for tracking workouts and progress.  
-**Live:** https://getfittrack.vercel.app  
+-Performance assessment using precision, recall, and F1-score
 
-### 💬 Python Chatbot  
-Simple rule-based chatbot built in Python.  
-[GitHub link coming soon]
+-Structured error analysis to identify misclassification patterns
 
-### 💱 C++ Crypto Trading Simulator  
-Wallet + exchange-rate simulator built with OOP principles.  
-[GitHub link coming soon]
+-Reproducible, research-style experimentation workflow
+
+This project reflects my interest in clinical NLP and research-oriented ML development.
+
+### 💬 NLP Class Assistant Chatbot (Python)
+A modular chatbot built to strengthen NLP and software engineering fundamentals.
+Key aspects:
+
+-Rule-based NLP (tokenization, pattern matching, intent classification)
+
+-Clean, modular Python design
+
+-Simple conversational memory and command handling
+
+-Test cases to validate system behavior
+
 
 ---
+
 
 ## 📫 Contact  
 **Email:** hammourmansour@gmail.com  
