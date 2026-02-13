@@ -1,5 +1,6 @@
-Hi, I’m Mansour Hammour 👋  
-Computer Science Student | Applied Machine Learning & NLP | Medical Student | Building AI for Healthcare
+# Hi, I'm Mansour Hammour 👋
+
+**Computer Science Student | Machine Learning & AI Enthusiast | Medical Student | Building AI for Healthcare**
 
 I’m a BSc Computer Science student at the University of London (Goldsmiths), entering my final year in 2026, and a medical student at the Syrian Private University. My work focuses on machine learning and natural language processing at the intersection of technology, medicine, and clinical decision support.
 
