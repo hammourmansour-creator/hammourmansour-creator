@@ -8,7 +8,7 @@ I use this GitHub to learn by building — starting with strong fundamentals and
 
 ---
 
-🔬 What I'm Currently Working On
+## 🔬 What I'm Currently Working On
 - Building end-to-end machine learning pipelines in Python  
 - Developing NLP models for medical and clinical text  
 - Fine-tuning transformer models for healthcare applications  
@@ -17,7 +17,7 @@ I use this GitHub to learn by building — starting with strong fundamentals and
 
 ---
 
-🧠 Skills & Tools
+## 🧠 Skills & Tools
 
 **Languages**
 - Python
@@ -41,7 +41,7 @@ I use this GitHub to learn by building — starting with strong fundamentals and
 
 ---
 
-🚀 Highlighted Projects
+## 🚀 Highlighted Projects
 
 🩺 Clinical Text Classification Mini-Pipeline (Python)
 An end-to-end NLP pipeline for multi-class classification of medical abstracts (PubMed 20k RCT dataset).
@@ -68,8 +68,8 @@ A modular chatbot built to strengthen NLP and software engineering fundamentals.
 
 ---
 
-📫 Contact
+## 📫 Contact
 Email: hammourmansour@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mansour-hammour-776666324  
 
-⭐ Feel free to explore my repositories — more ML projects coming soon!
+## ⭐ Feel free to explore my repositories — more ML projects coming soon!
